@@ -1,3 +1,2 @@
 # intro
-learning basic of git
-learing perpose only
+learning basics of git
